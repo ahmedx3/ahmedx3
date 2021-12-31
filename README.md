@@ -14,15 +14,14 @@ Here are some ideas to get you started:
 -->
 
 <h3 title="hehehe"> Hey 👋, I'm Ahmed!</h3>
-
 <a href="https://twitter.com/ahmedmks">
-  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img alt="ahmed's Twitter" width="35px" src="https://i.ibb.co/fxffXXf/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/ahmedmks">
-  <img alt="ahmed's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img alt="ahmed's LinkdeIN" width="35px" src="https://i.ibb.co/bXg78Vh/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/ahmedmostafakamel99">
-  <img alt="ahmed's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img alt="ahmed's Facebook" width="35px" src="https://i.ibb.co/4t2pQmr/facebook.png" />
 </a>
 <a href="https://mail.google.com/mail/u/?authuser=ahmed.moustafaa99@gmail.com">
   <img alt="ahmed's Gmail" width="35px" src="https://image.flaticon.com/icons/png/512/324/324123.png" />
@@ -38,7 +37,7 @@ A **WEB DEVELOPMENT** and **GAME DEVELOPMENT** ***Enthusiast*** 🚀🎮.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a Computer Engineer Undergrad student at Cairo University, Egypt.
-- 🤔 My interest lies in front end web development.
+- 🤔 My interest lies in front-end, machine learning and game development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [ahmed.moustafaa99@gmail.com](mailto:ahmed.moustafaa99@gmail.com).
 
@@ -95,7 +94,7 @@ A **WEB DEVELOPMENT** and **GAME DEVELOPMENT** ***Enthusiast*** 🚀🎮.
             src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"
             alt="typescript" width="40" height="40" /> </a>
     <a href="https://unity.com/" target="_blank" title ="Unity"> <img
-            src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png"
+            src="https://i.ibb.co/bPpmwyZ/unity.png"
             alt="unity" width="40" height="40" /> </a>
     <a href="https://www.unrealengine.com/en-US/" target="_blank" title ="Unreal Engine"> <img
             src="https://user-images.githubusercontent.com/16515307/33282121-0309b13a-d3eb-11e7-84b0-6d322ca89a5a.png"
