@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-A **WEB DEVELOPMENT** and **GAME DEVELOPMENT** ***Enthusiast*** 🚀🎮.
+A **WEB DEVELOPMENT**, **MACHINE LEARNING** and **GAME DEVELOPMENT** ***Enthusiast*** 🚀.
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
