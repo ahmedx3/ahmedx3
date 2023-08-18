@@ -36,7 +36,7 @@ A **WEB DEVELOPMENT**, **MACHINE LEARNING** and **GAME DEVELOPMENT** ***Enthusia
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Computer Engineer Undergrad student at Cairo University, Egypt.
+- 👨🏽‍💻 I’m a Computer Engineer graduate of Cairo University, Egypt.
 - 🤔 My interest lies in web development, machine learning, and game development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [ahmed.moustafaa99@gmail.com](mailto:ahmed.moustafaa99@gmail.com).
