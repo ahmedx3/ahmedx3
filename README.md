@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img alt="ahmed's Facebook" width="35px" src="https://i.ibb.co/4t2pQmr/facebook.png" />
 </a>
 <a href="https://mail.google.com/mail/u/?authuser=ahmed.moustafaa99@gmail.com">
-  <img alt="ahmed's Gmail" width="35px" src="https://image.flaticon.com/icons/png/512/324/324123.png" />
+  <img alt="ahmed's Gmail" width="35px" src="https://i.ibb.co/gT7xBNP/gmail.png" />
 </a>
 <br />
 <br />
@@ -37,7 +37,7 @@ A **WEB DEVELOPMENT**, **MACHINE LEARNING** and **GAME DEVELOPMENT** ***Enthusia
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a Computer Engineer Undergrad student at Cairo University, Egypt.
-- 🤔 My interest lies in front-end, machine learning and game development.
+- 🤔 My interest lies in web development, machine learning, and game development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [ahmed.moustafaa99@gmail.com](mailto:ahmed.moustafaa99@gmail.com).
 
